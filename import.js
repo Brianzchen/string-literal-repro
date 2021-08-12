@@ -22,3 +22,13 @@ export type ImportedModuleNestedExact = {
   ...
 }
 
+type Nested = {|
+  a: string,
+|}
+
+export type ImportedModuleAliasNestedExact = {
+  func: ObjFunction,
+  nested: Nested,
+  ...
+}
+
