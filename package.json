@@ -1,0 +1,11 @@
+{
+  "name": "string-literal-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Brianzchen/string-literal-repro.git",
+  "author": "Brian Chen <brian.chen@tabcorp.com.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.157.0"
+  }
+}
