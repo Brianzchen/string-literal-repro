@@ -7,5 +7,6 @@
 [lints]
 
 [options]
+format.single_quotes=true
 
 [strict]
